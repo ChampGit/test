@@ -1,0 +1,4 @@
+git status 
+git add text.txt
+git commit -am "test"
+git push origin master
