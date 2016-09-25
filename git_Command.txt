@@ -1,4 +1,9 @@
+//-- เอาขั้น
 git status 
 git add text.txt
 git commit -am "test"
 git push origin master
+
+//---  เอาลง
+git   clone  <url of version that you want>
+ example : git clone https://github.com/ChampGit/test/tree/8c8e2bafaa70cf9bc8fdc39e45b62635073e45f2
